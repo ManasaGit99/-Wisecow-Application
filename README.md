@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c8e4214d-11e8-4a65-838c-4759b1fd5680)
+
 # Wisecow Application
 
 This project containerizes and deploys the Wisecow application in a Kubernetes environment with secure TLS communication. The process includes automatic building and pushing of the Docker image to Docker Hub and deploying the application using GitHub Actions.
