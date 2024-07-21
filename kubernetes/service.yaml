@@ -6,12 +6,7 @@ spec:
   selector:
     app: wisecow
   ports:
-    - name: https
-      protocol: TCP
-      port: 443
-      targetPort: 4499
-    - name: http
-      protocol: TCP
+    - protocol: TCP
       port: 80
       targetPort: 4499
-  type: NodePort
+
